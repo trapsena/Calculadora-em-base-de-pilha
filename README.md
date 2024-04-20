@@ -6,7 +6,8 @@ Este é uma calculadora escrita em phyton com o intuito de atender os requerimen
 
 O trabalho e suas funções diversas estão divididas principalmente por dois defs (separar_numeros_e_operadores(expressao) e resolver_operacao(pilha_numeros, pilha_operadores)). Essas e outras funções estão mais explicadas no video de revisão do código
 
-# Link para o Video: https://drive.google.com/file/d/1Ps3e7WQgDCMlu7FejPPf7g8s2-h8yBhi/view?usp=drive_link
+# Link para o Video: https://drive.google.com/file/d/1Ps3e7WQgDCMlu7FejPPf7g8s2-h8yBhi/view?usp=sharing
+
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -70,4 +71,4 @@ O trabalho e suas funções diversas estão divididas principalmente por dois de
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▒▓▓▓▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓█████████
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓████████
 ##Link de referencia do codigo do trabalho:
-https://drive.google.com/file/d/1Ps3e7WQgDCMlu7FejPPf7g8s2-h8yBhi/view?usp=sharing
+https://drive.google.com/file/d/1Ps3e7WQgDCMlu7FejPPf7g8s2-h8yBhi/view?usp=drive_link
